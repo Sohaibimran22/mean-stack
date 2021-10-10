@@ -10,7 +10,7 @@
 
 ## About <a name="about"></a>
 
-The Project is dedicated for training of MEAN & MERN Stack development. The End product can be used as a boiler plate for
+The Project is dedicated for training of MEAN Stack development. The End product can be used as a boiler plate for
 future projects that are based on the similar dev technologies and SRS related but not limited to the following.
 
 - Authentication with Roles
