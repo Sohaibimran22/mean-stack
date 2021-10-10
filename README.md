@@ -1,4 +1,4 @@
-# Mean Stack Traing
+# Mean Stack Training
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
